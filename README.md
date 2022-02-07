@@ -1,5 +1,5 @@
 # SomeFunTeachingTool
-An example webapp used to teach my little brothers Websockets, simple cryptography, and XSS/html injection.
+An example webapp used to teach Websockets, simple cryptography, and XSS/html injection.
 
 To use it, make sure you have node installed, and the package "websocket". You can then run ws_server, and connect to your local machine with a browser on port 8080. Others on your network should be able to connect as well, if your firewall allows it.
 
